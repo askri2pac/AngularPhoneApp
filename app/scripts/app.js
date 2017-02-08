@@ -8,5 +8,10 @@
  *
  * Main module of the application.
  */
+// define the 'phonecatapp' module
 angular
-  .module('firstappApp', []);
+  .module('phonecatApp', []);
+
+// define the controller
+
+
